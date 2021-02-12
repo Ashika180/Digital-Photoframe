@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to bottom, maroon, pink);
+}
+
+canvas{
+    width: 450px;
+    height: 300px;
+    background-color: white;
+}
+
